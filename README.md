@@ -1,6 +1,6 @@
 # Local RAG (Retrieval-Augmented Generation) App 
 
-This is a Local Retrieval-Augmented Generation (RAG) app that uses the Llama 3.2 3B model for generative tasks, and ChromaDB for efficient vector-based document retrieval. The app retrieves relevant documents from a local dataset, integrates metadata for context, and generates responses based on the retrieved chunks.
+This is a Local Retrieval-Augmented Generation (RAG) app that uses the Llama 3.2 3B model for generative tasks, and ChromaDB for efficient vector-based document retrieval. The app retrieves relevant documents from a local document, integrates metadata for context, and generates responses based on the retrieved chunks.
 
 
 ## Features
