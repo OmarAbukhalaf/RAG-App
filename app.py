@@ -25,7 +25,7 @@ To answer the question:
 3. Formulate a detailed answer that directly addresses the question, using only the information provided in the context.
 4. Ensure your answer is comprehensive, covering all relevant aspects found in the context.
 5. If the context doesn't contain sufficient information to fully answer the question, state this clearly in your response.
-
+`
 Format your response as follows:
 1. Use clear, concise language.
 2. Organize your answer into paragraphs for readability.
